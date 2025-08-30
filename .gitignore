@@ -1,0 +1,10 @@
+venv/
+*.pt
+*.weights
+runs/
+dataset_split/
+ordered_images/
+ordered_labels/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
