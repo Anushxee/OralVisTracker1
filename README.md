@@ -1,4 +1,5 @@
-﻿✅OralVisTracker
+﻿🦷OralVisTracker
+ 
 ➡Tooth detection & numbering system using YOLOv8 on dental X-ray images.
 
 ✅Setup
@@ -50,6 +51,7 @@ dataset_split/
 ➡To reorder detected teeth into proper FDI numbering and separate quadrants
 ➡Reordered labels will be saved in: ordered_labels/
 ➡Reordered images will be saved in: ordered_images/
+
 
 
 
