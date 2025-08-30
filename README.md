@@ -10,9 +10,9 @@
 ➡️Create & activate virtual environment:
 
      python -m venv venv
-     # On Windows (PowerShell)
+     #On Windows 
      .\venv\Scripts\activate
-     # On Linux/Mac
+     #On Linux/Mac
      source venv/bin/activate
 ➡️Install dependencies: opencv-contrib-python, ultralytics, PyTorch, numpy, matplotlib, sk-learn
      
@@ -51,6 +51,7 @@ dataset_split/
 ➡To reorder detected teeth into proper FDI numbering and separate quadrants
 ➡Reordered labels will be saved in: ordered_labels/
 ➡Reordered images will be saved in: ordered_images/
+
 
 
 
