@@ -1,6 +1,13 @@
 _**﻿🦷OralVisTracker**_
 
 ➡Tooth detection & numbering system using YOLOv8 on dental X-ray images.
+  
+    'Built a post-processing pipeline
+    'Sorted detections based on spatial coordinates (x, y positions)
+    'Grouped teeth into quadrants
+    'Applied logic to map them into FDI numbering system
+    'Used YOLOv8 small (yolov8s) instead of larger models
+    'Limited epochs(30) for quicker experimentation
 
 **✅Setup**
 ➡️Clone repo and move into it:
